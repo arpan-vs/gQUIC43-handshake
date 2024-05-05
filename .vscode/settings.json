@@ -1,0 +1,9 @@
+{
+    "python.analysis.extraPaths": [
+        "./src/packets",
+        "./src/util",
+        "./src/crypto",
+        "./src/learner",
+        "./src/events"
+    ]
+}

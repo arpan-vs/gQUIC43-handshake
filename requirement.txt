@@ -1,0 +1,7 @@
+pycrypto
+pycryptodome
+cryptography
+scapy
+donna25519
+peewee
+hpack
